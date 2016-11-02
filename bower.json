@@ -1,0 +1,24 @@
+{
+  "name": "LazeLoad",
+  "authors": [
+    "Felix Otoo <ofelix03@gmail.com>"
+  ],
+  "description": "An asynchronouse image loader",
+  "main": "lazeload.js",
+  "keywords": [
+    "ImageLoader"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

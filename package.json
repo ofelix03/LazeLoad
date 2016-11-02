@@ -1,0 +1,21 @@
+{
+  "name": "lazeload",
+  "version": "1.0.0",
+  "description": "A simple jQuery asynchronous image loader",
+  "main": "lazeload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ImageLoader"
+  ],
+  "author": "Felix Otoo <ofelix03@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-uglify": "^2.0.0",
+    "pump": "^1.0.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
